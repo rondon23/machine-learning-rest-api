@@ -1,2 +1,2 @@
-# Deploying Machine Learning Models
-For the documentation, visit the course on Udemy.
+# Modelo de Api em Machine Learning
+Baseado em um projeto de um curso para deploy de modelos de machine learning.
