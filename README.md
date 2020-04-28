@@ -1,2 +1,2 @@
-# machine-learning-rest-api
-Criação e treinamento de um modelo utilizando redes neurais artificiais sendo servido por uma API rest.
+# Deploying Machine Learning Models
+For the documentation, visit the course on Udemy.
